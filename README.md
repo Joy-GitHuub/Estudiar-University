@@ -4,10 +4,12 @@ Live SIte Link Click Here [Estudiar University](https://estudiar-university.netl
 
 ## University Website 
 
-* Make sure you’ve chosen the right subject 
-* Gain decent employment, to achieve personal growth, and to    contribute to improvement in society
+* Make sure you’ve chosen the right subject ..
+* Encouraging students to get out of their comfort zones..
 * Check the course content..
-* Find out about the student accommodation
+* Showing students how to learn from their mistakes..
+* Find out about the student accommodation..
+* Providing work-integrated learning opportunities and getting students out into the real world..
 
 ## Tools 
 
