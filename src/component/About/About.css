@@ -1,0 +1,10 @@
+.background-img{
+    background-image: url(`../../../../header-section/about-bg-3.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    height: 96vh;
+    width: 100hw;
+}
+.about-university{
+color: rgb(98, 148, 47);
+}

@@ -1,0 +1,38 @@
+[
+    {
+        "banner": "https://csharp-station.com/wp-content/uploads/2018/05/C-language.jpg",
+        "duration": "1 Year",
+        "id": 1,
+        "name": "C Fundamental",
+        "price": 1500,
+        "rating": 4.2,
+        "view": 3500
+    },
+    {
+        "banner": "https://media.istockphoto.com/photos/speaker-talking-in-seminar-with-many-of-audiences-for-business-for-picture-id1049828098?s=612x612",
+        "duration": "4 Year",
+        "id": 2,
+        "name": "Public Admistration",
+        "price": 2000,
+        "rating": 4.5,
+        "view": 2780
+    },
+    {
+        "banner": "https://enotesworld.com/wp-content/uploads/2020/06/major-economic-systems-1024x391.png",
+        "duration": "6 month",
+        "id": 3,
+        "name": "Major in Economics",
+        "price": 2550,
+        "rating": 4.2,
+        "view": 2100
+    },
+    {
+        "banner": "https://images.unsplash.com/photo-1576086213369-97a306d36557?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=580&q=80",
+        "duration": "6 month",
+        "id": 3,
+        "name": "Biotechnology",
+        "price": 1050,
+        "rating": 4.2,
+        "view": 2100
+    }
+]

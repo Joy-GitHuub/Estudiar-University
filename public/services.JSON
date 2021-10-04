@@ -1,0 +1,92 @@
+[
+    {
+        "banner": "https://blog.examin.co.in/wp-content/uploads/2019/02/AMU-BA-LLB-2019.jpg",
+        "duration": "1 Year",
+        "id": 1,
+        "name": "Law",
+        "price": 1500,
+        "rating": 4.2,
+        "view": 3500
+    },
+    {
+        "banner": "https://media.istockphoto.com/photos/speaker-talking-in-seminar-with-many-of-audiences-for-business-for-picture-id1049828098?s=612x612",
+        "duration": "4 Year",
+        "id": 2,
+        "name": "Public Admistration",
+        "price": 1400,
+        "rating": 4.5,
+        "view": 2780
+    },
+    {
+        "banner": "https://enotesworld.com/wp-content/uploads/2020/06/major-economic-systems-1024x391.png",
+        "duration": "4 Year",
+        "id": 3,
+        "name": "Major in Economics ",
+        "price": 1550,
+        "rating": 4.2,
+        "view": 2100
+    },
+    {
+        "banner": "https://images.unsplash.com/photo-1576086213369-97a306d36557?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=580&q=80",
+        "duration": "6 Year",
+        "id": 4,
+        "name": "Biotechnology",
+        "price": 1550,
+        "rating": 4.5,
+        "view": 2100
+    },
+    {
+        "banner": "https://i.guim.co.uk/img/media/00634730a43e9a5a19e0995387fe878aa42b1bda/0_248_4000_2401/master/4000.jpg?width=620&quality=85&auto=format&fit=max&s=29fed9591175e4fd805e4a18a9e29fc5",
+        "duration": "4 Year",
+        "id": 5,
+        "name": "Earth & Marine Sciences Subject",
+        "price": 1300,
+        "rating": 4.8,
+        "view": 3410
+    },
+    {
+        "banner": "http://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2019/12/Advanced-JavaScript-Tutorial-1.jpg",
+        "duration": "3 Year",
+        "id": 6,
+        "name": "Advanced JavaScript Programming",
+        "price": 910,
+        "rating": 4.2,
+        "view": 2080
+    },
+    {
+        "banner": "https://www.york.ac.uk/media/study/courses/undergraduate/economics/EconomicsEconometricsHero.jpg",
+        "duration": "3 Year",
+        "id": 7,
+        "name": "Economics & Econometrics",
+        "price": 1100,
+        "rating": 4.1,
+        "view": 3002
+    },
+    {
+        "banner": "https://edynamiclearning.com/wp-content/uploads/2019/04/Engineering.jpg",
+        "duration": "4 Year",
+        "id": 8,
+        "name": "Engineering & Technology",
+        "price": 1000,
+        "rating": 4.1,
+        "view": 3002
+    },
+    {
+        "banner": "https://www.mindinventory.com/blog/wp-content/uploads/2021/03/Different-Between-UI-UX.png",
+        "duration": "3 Year",
+        "id": 9,
+        "name": "UI/Ux Design Development",
+        "price": 800,
+        "rating": 4.4,
+        "view": 3400
+    },
+    {
+        "banner": "https://www.gmercyu.edu/sites/default/files/styles/scaled_image_760w/public/page/header-image/cisheader.jpg?itok=u4_Q481b",
+        "duration": "4 Year",
+        "id": 10,
+        "name": "Computer Science & Information Systems",
+        "price": 1750,
+        "rating": 3.9,
+        "view": 2930
+    }
+]

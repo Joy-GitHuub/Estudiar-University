@@ -1,0 +1,8 @@
+.tour-section{
+    background-image: url(`../../../../header-section/video-bg.jpg);
+    padding: 80px;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    height: 96vh;
+    width: 100hw;
+}

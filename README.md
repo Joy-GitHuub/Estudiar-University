@@ -1,6 +1,6 @@
 # Estudiar University...
 
-Live SIte Link Click Here [Estudiar University](https://github.com/facebook/create-react-app).
+Live SIte Link Click Here [Estudiar University](https://estudiar-university.netlify.app/).
 
 ## University Website 
 
